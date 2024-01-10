@@ -1,8 +1,0 @@
-﻿CREATE TABLE `category` (
-  `CategoryId` INT NOT NULL AUTO_INCREMENT,
-  `CategoryName` VARCHAR(255) NOT NULL,
-  PRIMARY KEY (CategoryId)
-)
-ENGINE = INNODB,
-CHARACTER SET utf8mb4,
-COLLATE utf8mb4_0900_ai_ci;
